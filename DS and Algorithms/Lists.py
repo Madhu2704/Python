@@ -1,4 +1,5 @@
 # Lists are same as Array but Items in list need not be the same type
+# Lists are Mutable and Can be updated after Intializing
 list1 = ['physics', 1, 2, 3.4, 5]
 
 # Accessing the Elements in the List
