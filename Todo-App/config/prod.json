@@ -1,0 +1,9 @@
+{
+    "mongo":{
+        "host":"localhost",
+        "user":"root",
+        "passwd":"",
+        "port":27017,
+        "db":"test"
+    }
+}
